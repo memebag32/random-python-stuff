@@ -1,9 +1,4 @@
-"""
-Filename: Trivia.py
-Author: Chrobak, Walter>
-Created: <9/11/2025>
-Instructor: Holtslander
-"""
+
 score = 0
 correct = 0
 

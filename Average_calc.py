@@ -1,8 +1,6 @@
 """
 Filename: Average_calc.py
-Author: Chrobak, Walter>
 Created: <10/31/2025>
-Instructor: Holtslander
 """
 
 sum = 0

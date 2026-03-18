@@ -1,9 +1,3 @@
-"""
-Filename: conditional_calc.py
-Author: Chrobak, Walter>
-Created: <9/11/2025>
-Instructor: Holtslander
-"""
 
 print("Hello this program is ment to be a conditional calculator")
 num1 = input("Put your first number\n")

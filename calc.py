@@ -1,8 +1,6 @@
 """
 Filename: calc.py
-Author: Chrobak, Walter>
 Created: <9/11/2025>
-Instructor: Holtslander
 """
 
 print("Hello this program is a calculator or should be one")

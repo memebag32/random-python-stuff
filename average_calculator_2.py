@@ -1,8 +1,6 @@
 """
 Filename: average_calculator_2.py
-Author: <Walter Chrobak>
 Created: <03/12/2026>
-Instructor: Holtslander
 """
 
 lst = []
